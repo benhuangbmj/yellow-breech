@@ -1,2 +1,2 @@
 # yellow-breech
-A project of streaming audio
+*A project of streaming audio and video*
